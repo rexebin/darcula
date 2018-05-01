@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4]
+
+Fix Javascript colors.
+
 ## [0.0.3]
 
 Add screen short.

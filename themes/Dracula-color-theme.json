@@ -98,7 +98,7 @@
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
-        "punctuation.decorator.ts",
+        "punctuation.decorator",
         "meta.function-call",
         "variable.function",
         "support.function",
@@ -116,11 +116,8 @@
       }
     },
     {
-      "name": "Variables.other.property.ts",
-      "scope": [
-        "variable.other.property.ts",
-        "variable.other.constant.property.ts"
-      ],
+      "name": "Variables.other.property",
+      "scope": ["variable.other.property", "variable.other.constant.property"],
       "settings": {
         "foreground": "#9876aa"
       }
@@ -165,8 +162,8 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.definition.string.begin.json",
         "punctuation.definition.string.end.json",
-        "punctuation.definition.string.begin.ts",
-        "punctuation.definition.string.end.ts"
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end"
       ],
       "settings": {
         "foreground": "#6a9759",
@@ -204,11 +201,11 @@
       }
     },
     {
-      "name": "support.type.primitive.ts",
+      "name": "support.type.primitive",
       "scope": [
-        "support.type.primitive.ts",
-        "support.type.builtin.ts",
-        "keyword.operator.expression.typeof.ts",
+        "support.type.primitive",
+        "support.type.builtin",
+        "keyword.operator.expression.typeof",
         "constant.language.boolean"
       ],
       "settings": {
@@ -229,25 +226,22 @@
       }
     },
     {
-      "name": "variable.other.constant.ts",
-      "scope": ["variable.other.constant.ts"],
+      "name": "variable.other.constant",
+      "scope": ["variable.other.constant"],
       "settings": {
         "foreground": "#a9b7c6"
       }
     },
     {
-      "name": "variable.parameter.ts",
-      "scope": [
-        "support.variable.property.dom.ts",
-        "support.variable.property.ts"
-      ],
+      "name": "variable.parameter",
+      "scope": ["support.variable.property.dom", "support.variable.property"],
       "settings": {
         "foreground": "#9876aa"
       }
     },
     {
-      "name": "variable.parameter.ts",
-      "scope": ["variable.parameter.ts"],
+      "name": "variable.parameter",
+      "scope": ["variable.parameter"],
       "settings": {
         "foreground": "#a9b7c6"
       }
@@ -353,8 +347,8 @@
       "name": "Escape Characters",
       "scope": [
         "constant.character.escape",
-        "punctuation.terminator.statement.ts",
-        "punctuation.separator.comma.ts"
+        "punctuation.terminator.statement",
+        "punctuation.separator.comma"
       ],
       "settings": {
         "foreground": "#cc7832"
@@ -621,8 +615,8 @@
       }
     },
     {
-      "name": "variable.other.object.ts",
-      "scope": ["variable.other.object.ts"],
+      "name": "variable.other.object",
+      "scope": ["variable.other.object"],
       "settings": {
         "foreground": "#a9b7c6"
       }
@@ -630,7 +624,7 @@
     {
       "name": "meta.object-literal",
       "scope": [
-        "meta.object-literal.key.ts",
+        "meta.object-literal.key",
         "meta.object.member.object-literal.key"
       ],
       "settings": {
@@ -646,15 +640,15 @@
       }
     },
     {
-      "name": "variable.other.object.property.ts",
-      "scope": ["variable.other.object.property.ts"],
+      "name": "variable.other.object.property",
+      "scope": ["variable.other.object.property"],
       "settings": {
         "foreground": "#9876aa"
       }
     },
     {
-      "name": "variable.other.readwrite.ts",
-      "scope": ["variable.other.readwrite.ts"],
+      "name": "variable.other.readwrite",
+      "scope": ["variable.other.readwrite"],
       "settings": {
         "foreground": "#a9b7c6"
       }
@@ -716,7 +710,7 @@
       }
     },
     {
-      "name": "meta.brace.square.ts",
+      "name": "meta.brace.square",
       "scope": ["meta.brace"],
       "settings": {
         "foreground": "#a9b7c6",
@@ -742,7 +736,7 @@
       "scope": [
         "punctuation.definition.group.no-capture.regexp",
         "punctuation.definition.group.regexp",
-        "string.regexp.ts keyword.other.ts",
+        "string.regexp keyword.other",
         "punctuation.definition.character-class.regexp",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.regexp"
