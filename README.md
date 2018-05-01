@@ -6,6 +6,8 @@ This theme start from [dracula/textmate](https://github.com/dracula/textmate/blo
 
 This theme is a work in progress.
 
+![Screenshot](./Screenshot_1.png)
+
 ## Typescript
 
 Optimized for Typescript. The only color in Typescript I kept from dracula/textmate is the comment color, which in my opinion is better than WebStorm's green.
