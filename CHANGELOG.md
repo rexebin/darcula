@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.0]
+
+Add support for csharp, scss
+
 ## [0.0.4]
 
 Fix Javascript colors.
