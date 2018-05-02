@@ -525,7 +525,11 @@
       "scope": [
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "punctuation.definition.tag.html"
+        "punctuation.definition.tag.html",
+        "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open punctuation.definition.tag.begin",
+        "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open punctuation.definition.tag.end",
+        "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.close punctuation.definition.tag.begin",
+        "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.close punctuation.definition.tag.end"
       ],
       "settings": {
         "foreground": "#E8BF6A"
