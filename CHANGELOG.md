@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.2]
+
+Fix html tag bracket color.
+
 ## [0.1.1]
 
 Fix markdown description color.

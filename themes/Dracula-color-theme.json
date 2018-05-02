@@ -513,16 +513,24 @@
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.section.embedded",
-        "punctuation.definition.list_item.markdown",
-        "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html"
+        "punctuation.definition.list_item.markdown"
       ],
       "settings": {
         "foreground": "#a9b7c6"
       }
     },
 
+    {
+      "name": "Punctuation html",
+      "scope": [
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.definition.tag.html"
+      ],
+      "settings": {
+        "foreground": "#E8BF6A"
+      }
+    },
     {
       "name": "punctuation.definition",
       "scope": [
