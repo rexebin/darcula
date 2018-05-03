@@ -8,7 +8,8 @@
     "sideBarTitle.foreground": "#bbbbbb",
     "editorGutter.background": "#313335",
     "sideBar.background": "#3C3F41",
-    "statusBar.background": "#333333"
+    "statusBar.background": "#333333",
+    "editorIndentGuide.activeBackground": "#bbbbbba4"
   },
   "tokenColors": [
     {

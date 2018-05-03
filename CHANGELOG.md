@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.3]
+
+Fix indent highlight color for vscode 1.23.
+
 ## [0.1.2]
 
 Fix html tag bracket color.
