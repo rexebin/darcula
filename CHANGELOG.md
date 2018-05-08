@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.4]
+
+Fix "support.variable.dom" color.
+
 ## [0.1.3]
 
 Fix indent highlight color for vscode 1.23.

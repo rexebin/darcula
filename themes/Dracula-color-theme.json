@@ -478,7 +478,8 @@
         "variable.parameter",
         "variable.other.constant",
         "variable.other.object",
-        "variable.other.readwrite"
+        "variable.other.readwrite",
+        "support.variable.dom"
       ],
       "settings": {
         "foreground": "#a9b7c6"
