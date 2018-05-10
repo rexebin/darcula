@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.6]
+
+Add codelens foreground color
+
 ## [0.1.5]
 
 Fix Angular @Pipe color.

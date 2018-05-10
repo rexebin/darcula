@@ -9,7 +9,8 @@
     "editorGutter.background": "#313335",
     "sideBar.background": "#3C3F41",
     "statusBar.background": "#333333",
-    "editorIndentGuide.activeBackground": "#bbbbbba4"
+    "editorIndentGuide.activeBackground": "#bbbbbba4",
+    "editorCodeLens.foreground": "#546e7a9f"
   },
   "tokenColors": [
     {
