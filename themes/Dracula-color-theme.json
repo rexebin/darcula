@@ -665,7 +665,11 @@
     },
     {
       "name": "entity.name.tag",
-      "scope": ["entity.name.tag", "entity.name.function"],
+      "scope": [
+        "entity.name.tag",
+        "entity.name.function",
+        "meta.decorator meta.function-call support.class"
+      ],
       "settings": {
         "foreground": "#ffc66d"
       }
