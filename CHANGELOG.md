@@ -1,8 +1,16 @@
 # Change Log
 
-## [0.1.5]
+## [0.1.7]
 
 Darken editor background.
+
+## [0.1.6]
+
+Add codelens foreground color
+
+## [0.1.5]
+
+Fix Angular @Pipe color.
 
 ## [0.1.4]
 

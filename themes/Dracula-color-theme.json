@@ -9,7 +9,8 @@
     "editorGutter.background": "#2e2e2e",
     "sideBar.background": "#1f1f1f",
     "statusBar.background": "#2e2e2e",
-    "editorIndentGuide.activeBackground": "#bbbbbba4"
+    "editorIndentGuide.activeBackground": "#bbbbbba4",
+    "editorCodeLens.foreground": "#546e7a9f"
   },
   "tokenColors": [
     {
@@ -665,7 +666,11 @@
     },
     {
       "name": "entity.name.tag",
-      "scope": ["entity.name.tag", "entity.name.function"],
+      "scope": [
+        "entity.name.tag",
+        "entity.name.function",
+        "meta.decorator meta.function-call support.class"
+      ],
       "settings": {
         "foreground": "#ffc66d"
       }
