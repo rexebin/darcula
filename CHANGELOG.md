@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.5]
+
+Darken editor background.
+
 ## [0.1.4]
 
 Fix "support.variable.dom" color.
