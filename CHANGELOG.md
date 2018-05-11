@@ -1,4 +1,7 @@
 # Change Log
+## [0.1.8]
+
+Reverse darken editor background.
 
 ## [0.1.7]
 
