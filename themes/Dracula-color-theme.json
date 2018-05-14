@@ -2,7 +2,7 @@
   "name": "Dracula",
   "type": "dark",
   "colors": {
-   "editor.background": "#2b2b2b",
+    "editor.background": "#2b2b2b",
     "editor.foreground": "#d4d4d4",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
@@ -526,9 +526,9 @@
     {
       "name": "Punctuation html",
       "scope": [
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
-        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end",
+        "punctuation.definition.tag",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open punctuation.definition.tag.begin",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open punctuation.definition.tag.end",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.close punctuation.definition.tag.begin",
@@ -762,7 +762,11 @@
 
     {
       "name": "support.type.primitive",
-      "scope": ["support.type.primitive", "support.type.builtin"],
+      "scope": [
+        "support.type.primitive",
+        "support.type.builtin",
+        "support.type.object.module.tsx"
+      ],
       "settings": {
         "foreground": "#cc7832",
         "fontStyle": "bold"

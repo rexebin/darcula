@@ -1,4 +1,9 @@
 # Change Log
+
+## [0.1.9]
+
+Fix support for "exports" and HTML in .snap files.
+
 ## [0.1.8]
 
 Reverse darken editor background.
