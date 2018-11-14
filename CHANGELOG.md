@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.11]
+
+Fix color for React component tag content.
+
 ## [0.1.10]
 
 Fix color for React component tag highlight.

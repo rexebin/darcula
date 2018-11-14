@@ -997,6 +997,13 @@
       "settings": {
         "foreground": "#ffc66d"
       }
+    },
+    {
+      "name": "meta.jsx.children.js.jsx",
+      "scope": ["meta.jsx.children.js.jsx"],
+      "settings": {
+        "foreground": "#d4d4d4"
+      }
     }
   ]
 }
