@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.10]
+
+Fix color for React component tag highlight.
+
 ## [0.1.9]
 
 Fix support for "exports" and HTML in .snap files.
@@ -56,4 +60,4 @@ Change Markdown Headline color.
 
 ## [0.0.1]
 
-* Initial release
+- Initial release

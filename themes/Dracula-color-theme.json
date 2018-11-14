@@ -990,6 +990,13 @@
       "settings": {
         "foreground": "#ffc66d"
       }
+    },
+    {
+      "name": "support.class.component.js.jsx",
+      "scope": ["support.class.component.js.jsx", "entity.name.tag.js.jsx"],
+      "settings": {
+        "foreground": "#ffc66d"
+      }
     }
   ]
 }

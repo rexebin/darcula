@@ -2,7 +2,7 @@
   "name": "dracula",
   "displayName": "Dracula Theme - WebStorm Edition",
   "description": "Dracula Theme - WebStorm Edition",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "publisher": "rexebin",
   "icon": "dracula.png",
   "engines": {
@@ -11,8 +11,16 @@
   "repository": {
     "url": "https://www.github.com/rexebin/dracula"
   },
-  "keywords": ["Dracula", "WebStorm", "Dark Theme", "Typescript", "Angular"],
-  "categories": ["Themes"],
+  "keywords": [
+    "Dracula",
+    "WebStorm",
+    "Dark Theme",
+    "Typescript",
+    "Angular"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
