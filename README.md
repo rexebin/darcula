@@ -8,7 +8,7 @@ This theme start from [dracula/textmate](https://github.com/dracula/textmate/blo
 
 ## Angular Component Template
 
-Unfortunately, Angular Language Service does not contribute to vscode's TM Scope, therefore Theme is unable to cover Angular component's template, for now.
+This theme now can work with [vscode-angular-html](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) to support Angular template.
 
 ## Links
 

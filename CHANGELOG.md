@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.12]
+Refine Angular html template syntax highlighting with extension [vscode-angular-html](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html)
+
+Better support for inline template html.
+
 ## [0.1.11]
 
 Fix color for React component tag content.
