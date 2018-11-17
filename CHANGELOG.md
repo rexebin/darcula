@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.13]
+
+Add angular template string interpolation color
+
 ## [0.1.12]
 Refine Angular html template syntax highlighting with extension [vscode-angular-html](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html)
 

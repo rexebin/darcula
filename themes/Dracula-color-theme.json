@@ -785,7 +785,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#a9b7c6"
       }
     },
     {
@@ -1043,6 +1043,21 @@
       "source.ts meta.decorator.ts punctuation.decorator.ts"],
       "settings": {
         "foreground": "#BBB529"      
+      }
+    },
+    {
+      "name": "angular template string interpolation",
+      "scope":["text.html.html expression.embedded.angular string.regexp.interpolation.begin", 
+        "text.html.html expression.embedded.angular string.regexp.interpolation.end"],
+      "settings": {
+        "foreground": "#cc7832"        
+      }
+    },
+    {
+      "name": "html text",
+      "scope": ["text.html.html"],
+      "settings": {
+        "foreground": "#a9b7c6"       
       }
     }
   ]
