@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.14]
+
+Update angular html template highlighting to work better with vscode-angular-html 0.0.31.
+
 ## [0.1.13]
 
 Add angular template string interpolation color

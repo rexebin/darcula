@@ -1008,8 +1008,7 @@
     {
       "name": "variable.other.readwrite.js source.directive.angular",
       "scope": [
-        "text.html.html variable.other.readwrite.js",
-        "text.html.html string.regexp",
+        "text.html.html variable.other.readwrite.js",        
         "text.html.html meta.directive.angular support.type.object.module.html",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open meta.tag.attribute-name entity.other.attribute-name"],
       "settings": {
@@ -1058,6 +1057,20 @@
       "scope": ["text.html.html"],
       "settings": {
         "foreground": "#a9b7c6"       
+      }
+    },
+    {
+      "name": "html text",
+      "scope": ["text.html.html meta.tag.other.html meta.directive.angular constant.numeric.decimal.js", "text.html.html string.regexp"],
+      "settings": {
+        "foreground": "#BBB529"       
+      }
+    },
+    {
+      "name": "html text",
+      "scope": ["text.html.html meta.tag.other.html meta.directive.angular source.directive.angular constant.numeric.decimal.js"],
+      "settings": {
+        "foreground": "#6987bb"       
       }
     }
   ]
