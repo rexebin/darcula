@@ -1061,7 +1061,7 @@
     },
     {
       "name": "html text",
-      "scope": ["text.html.html meta.tag.other.html meta.directive.angular constant.numeric.decimal.js", "text.html.html string.regexp"],
+      "scope": ["text.html.html meta.tag.other.html meta.directive.angular constant.numeric.angular.directives", "text.html.html string.regexp"],
       "settings": {
         "foreground": "#BBB529"       
       }
