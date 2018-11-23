@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.16]
+Update to work with vscode-angular-html 0.0.33
+
 ## [0.1.15]
 Update angular html template highlighting to work better with vscode-angular-html 0.0.32.
 
