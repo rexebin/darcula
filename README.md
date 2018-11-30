@@ -2,7 +2,7 @@
 
 This is a Darcula Dark Theme mirroring colors in the Darcula theme in WebStorm by JetBrains.
 
-This theme start from [Darcula/textmate](https://github.com/Darcula/textmate/blob/master/Darcula.tmTheme) and then fine-tuned to WebStorm's Darcula Theme.
+This theme start from [Dracula/textmate](https://github.com/Darcula/textmate/blob/master/Darcula.tmTheme) and then fine-tuned to WebStorm's Darcula Theme.
 
 ![Screenshot](./Screenshot_1.png)
 

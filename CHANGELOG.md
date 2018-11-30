@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.18]
+Add icon.
+
 ## [0.0.17]
 Correct name from Dracula to Darcula
 

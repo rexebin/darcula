@@ -2,8 +2,9 @@
   "name": "dracula",
   "displayName": "Darcula Theme - WebStorm Edition",
   "description": "Darcula Theme - WebStorm Edition",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "publisher": "rexebin",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.22.0"
   },
