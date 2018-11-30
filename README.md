@@ -1,8 +1,8 @@
-# Dracula Theme - WebStorm Edition
+# Darcula Theme - WebStorm Edition
 
-This is a Dracula Dark Theme mirroring colors in the Dracula theme in WebStorm by JetBrains.
+This is a Darcula Dark Theme mirroring colors in the Darcula theme in WebStorm by JetBrains.
 
-This theme start from [dracula/textmate](https://github.com/dracula/textmate/blob/master/Dracula.tmTheme) and then fine-tuned to WebStorm's Dracula Theme.
+This theme start from [Darcula/textmate](https://github.com/Darcula/textmate/blob/master/Darcula.tmTheme) and then fine-tuned to WebStorm's Darcula Theme.
 
 ![Screenshot](./Screenshot_1.png)
 
@@ -12,7 +12,7 @@ This theme now can work with [vscode-angular-html](https://marketplace.visualstu
 
 ## Links
 
-[Github Repository](https://www.github.com/rexebin/dracula)
+[Github Repository](https://www.github.com/rexebin/Darcula)
 
 My extensions:
 
@@ -22,6 +22,3 @@ My extensions:
 
 [F12: Open File:](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file) Extending Go to definition to open file when the look up symbol is a file name with relative path.
 
-[Angular Lite:](https://marketplace.visualstudio.com/items?itemName=rexebin.angular-lite) An extension pack for Angular developers.
-
-[Angular Extension Pack:](https://marketplace.visualstudio.com/items?itemName=rexebin.angular-extension-pack) An extension pack for Angular developers.

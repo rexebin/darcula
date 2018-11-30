@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.17]
+Correct name from Dracula to Darcula
+
 ## [0.1.16]
 Update to work with vscode-angular-html 0.0.33
 

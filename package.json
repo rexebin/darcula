@@ -1,18 +1,17 @@
 {
   "name": "dracula",
-  "displayName": "Dracula Theme - WebStorm Edition",
-  "description": "Dracula Theme - WebStorm Edition",
-  "version": "0.1.16",
+  "displayName": "Darcula Theme - WebStorm Edition",
+  "description": "Darcula Theme - WebStorm Edition",
+  "version": "0.1.17",
   "publisher": "rexebin",
-  "icon": "dracula.png",
   "engines": {
     "vscode": "^1.22.0"
   },
   "repository": {
-    "url": "https://www.github.com/rexebin/dracula"
+    "url": "https://www.github.com/rexebin/darcula"
   },
   "keywords": [
-    "Dracula",
+    "Darcula",
     "WebStorm",
     "Dark Theme",
     "Typescript",
@@ -24,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dracula - WebStorm Edition",
+        "label": "Darcula - WebStorm Edition",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dracula-color-theme.json"
+        "path": "./themes/Darcula-color-theme.json"
       }
     ]
   }
