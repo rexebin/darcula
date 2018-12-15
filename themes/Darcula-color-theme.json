@@ -1041,11 +1041,21 @@
     {
       "name": "angular template string interpolation",
       "scope": [
-        "text.html.angular expression.embedded.angular string.regexp.interpolation.begin",
-        "text.html.angular expression.embedded.angular string.regexp.interpolation.end"
+        "text.html.angular expression.angular-interpolation string.regexp.angular-interpolation.begin",
+        "text.html.angular expression.angular-interpolation string.regexp.angular-interpolation.end"
       ],
       "settings": {
         "foreground": "#cc7832"
+      }
+    },
+    {
+      "name": "angular template operator",
+      "scope": [
+        "text.html.angular keyword.operator.expression",
+      ],
+      "settings": {
+        "foreground": "#cc7832",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1056,13 +1066,24 @@
       }
     },
     {
-      "name": "html text",
+      "name": "angular directive",
       "scope": [
         "text.html.angular meta.directive.angular constant.numeric.angular-directive",
-        "text.html.angular string.regexp"
+        "text.html.angular string.regexp",
+        "text.html.angular meta.directive.angular constant.character.entity.html",
+        "text.html.angular meta.directive.angular keyword.operator.entity.html"
       ],
       "settings": {
         "foreground": "#BBB529"
+      }
+    },
+    {
+      "name": "directive string regexp",
+      "scope": [
+        "text.html.angular string.regexp",
+      ],
+      "settings": {
+        "foreground": "#dfd940",
       }
     },
     {
