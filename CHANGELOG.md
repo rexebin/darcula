@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.19]
+
+Fix colors for angular template with vscode-angular-html 1.0+
+
 ## [0.0.18]
 Add icon.
 
