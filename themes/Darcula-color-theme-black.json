@@ -2,20 +2,40 @@
   "name": "Darcula",
   "type": "dark",
   "colors": {
-    "editor.background": "#2b2b2b",
+    "editor.background": "#000000",
     "editor.foreground": "#d4d4d4",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
-    "editorGutter.background": "#313335",
-    "sideBar.background": "#3C3F41",
-    "statusBar.background": "#333333",
+    "editorGutter.background": "#000000",
+    "sideBar.background": "#000000",
+    "sideBar.border": "#20202b",
+    "statusBar.border": "#20202b",
+    "editorGroup.border": "#20202b",
+    "statusBar.background": "#000000",
     "editorIndentGuide.activeBackground": "#bbbbbba4",
-    "editorCodeLens.foreground": "#546e7a9f"
+    "editorCodeLens.foreground": "#546e7a9f",
+    "activityBar.background": "#000000",
+    "activityBar.border": "#20202b",
+    "menu.background": "#000000",
+    "menu.border": "#414141",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.border": "#20202b",
+    "tab.border": "#000000",
+    "tab.activeBackground": "#20202b",
+    "tab.inactiveBackground": "#000000",
+    "editorGroupHeader.tabsBackground": "#000000",
+    "editorGroupHeader.tabsBorder": "#20202b",
+    "editor.selectionBackground": "#214283",
+    "editor.wordHighlightBackground": "#546e7a55"
   },
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment", "comment.block punctuation.definition.list.begin.markdown"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block punctuation.definition.list.begin.markdown"
+      ],
       "settings": {
         "foreground": "#546E7A"
       }
@@ -88,7 +108,7 @@
       "name": "Symbols, Inherited Class, Markup Heading",
       "scope": ["markup.heading", "markup.inserted.git_gutter"],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -414,7 +434,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -545,7 +565,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -618,7 +638,7 @@
       "name": "String",
       "scope": ["string"],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -1050,9 +1070,7 @@
     },
     {
       "name": "angular template operator",
-      "scope": [
-        "text.html.angular keyword.operator.expression",
-      ],
+      "scope": ["text.html.angular keyword.operator.expression"],
       "settings": {
         "foreground": "#cc7832",
         "fontStyle": "bold"
@@ -1079,11 +1097,9 @@
     },
     {
       "name": "directive string regexp",
-      "scope": [
-        "text.html.angular string.regexp",
-      ],
+      "scope": ["text.html.angular string.regexp"],
       "settings": {
-        "foreground": "#dfd940",
+        "foreground": "#dfd940"
       }
     },
     {

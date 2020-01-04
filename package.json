@@ -1,8 +1,8 @@
 {
-  "name": "dracula",
-  "displayName": "Darcula Theme - WebStorm Edition",
-  "description": "Darcula Theme - WebStorm Edition",
-  "version": "0.1.22",
+  "name": "dracula-black",
+  "displayName": "Darcula Theme - Black Edition",
+  "description": "Darcula Theme - Black Edition",
+  "version": "0.0.1",
   "publisher": "rexebin",
   "icon": "icon.png",
   "engines": {
@@ -13,6 +13,7 @@
   },
   "keywords": [
     "Darcula",
+    "Black",
     "WebStorm",
     "Dark Theme",
     "Typescript",
@@ -24,9 +25,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darcula - WebStorm Edition",
+        "label": "Darcula - Black Edition",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darcula-color-theme.json"
+        "path": "./themes/Darcula-color-theme-black.json"
       }
     ]
   }
