@@ -2,6 +2,8 @@
 
 ## [0.0.23]
 
+## [0.0.24]
+
 Fix colors for angular template with vscode-angular-html
 
 ## [0.0.22]

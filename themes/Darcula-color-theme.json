@@ -55,7 +55,6 @@
       ],
       "settings": {
         "foreground": "#6a828d"
-        // "fontStyle": "italic"
       }
     },
     {
@@ -87,7 +86,7 @@
       "name": "Symbols, Inherited Class, Markup Heading",
       "scope": ["markup.heading", "markup.inserted.git_gutter"],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -413,7 +412,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -544,7 +543,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -617,7 +616,7 @@
       "name": "String",
       "scope": ["string"],
       "settings": {
-        "foreground": "#a5c261",
+        "foreground": "#a5c261"
       }
     },
     {
@@ -1049,9 +1048,7 @@
     },
     {
       "name": "angular template operator",
-      "scope": [
-        "text.angular.html keyword.operator.expression",
-      ],
+      "scope": ["text.angular.html keyword.operator.expression"],
       "settings": {
         "foreground": "#cc7832",
         "fontStyle": "bold"
@@ -1072,16 +1069,22 @@
         "text.angular.html template.ng.tag meta.directive.angular keyword.operator.entity.html"
       ],
       "settings": {
-        "foreground": "#AE8ABE"
+        "foreground": "#9876aa"
       }
     },
     {
       "name": "directive string regexp",
+      "scope": ["text.angular.html string.regexp"],
+      "settings": {
+        "foreground": "#dfd940"
+      }
+    },
+    {
       "scope": [
-        "text.angular.html string.regexp",
+        "text.angular.html template.ng.tag meta.directive.angular source.directive.angular entity.name.type.ts"
       ],
       "settings": {
-        "foreground": "#dfd940",
+        "foreground": "#9876aa"
       }
     },
     {
