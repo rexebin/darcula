@@ -1089,7 +1089,7 @@
         "text.angular.html template.ng.tag meta.directive.angular keyword.operator.entity.html"
       ],
       "settings": {
-        "foreground": "#AE8ABE"
+        "foreground": "#9876aa"
       }
     },
     {
@@ -1097,6 +1097,14 @@
       "scope": ["text.angular.html string.regexp"],
       "settings": {
         "foreground": "#dfd940"
+      }
+    },
+    {
+      "scope": [
+        "text.angular.html template.ng.tag meta.directive.angular source.directive.angular entity.name.type.ts"
+      ],
+      "settings": {
+        "foreground": "#9876aa"
       }
     },
     {
