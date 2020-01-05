@@ -2,7 +2,7 @@
   "name": "dracula",
   "displayName": "Darcula Theme - WebStorm Edition",
   "description": "Darcula Theme - WebStorm Edition",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "publisher": "rexebin",
   "icon": "icon.png",
   "engines": {
@@ -22,12 +22,10 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Darcula - WebStorm Edition",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Darcula-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "Darcula - WebStorm Edition",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Darcula-color-theme.json"
+    }]
   }
 }

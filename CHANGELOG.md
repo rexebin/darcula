@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.23]
+
+Fix colors for angular template with vscode-angular-html
+
 ## [0.0.22]
 
 Fix list color in comment.
@@ -9,15 +13,19 @@ Fix list color in comment.
 Fix colors for angular template with vscode-angular-html 1.0+
 
 ## [0.0.18]
+
 Add icon.
 
 ## [0.0.17]
+
 Correct name from Dracula to Darcula
 
 ## [0.1.16]
+
 Update to work with vscode-angular-html 0.0.33
 
 ## [0.1.15]
+
 Update angular html template highlighting to work better with vscode-angular-html 0.0.32.
 
 ## [0.1.14]
@@ -29,6 +37,7 @@ Update angular html template highlighting to work better with vscode-angular-htm
 Add angular template string interpolation color
 
 ## [0.1.12]
+
 Refine Angular html template syntax highlighting with extension [vscode-angular-html](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html)
 
 Better support for inline template html.
