@@ -2,7 +2,7 @@
   "name": "dracula-black",
   "displayName": "Darcula Theme - Black Edition",
   "description": "Darcula Theme - Black Edition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rexebin",
   "icon": "icon.png",
   "engines": {
@@ -23,12 +23,10 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Darcula - Black Edition",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Darcula-color-theme-black.json"
-      }
-    ]
+    "themes": [{
+      "label": "Darcula - Black Edition",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Darcula-color-theme-black.json"
+    }]
   }
 }
