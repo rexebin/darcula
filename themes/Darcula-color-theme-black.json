@@ -1022,8 +1022,8 @@
     {
       "name": "variable.other.readwrite.js source.directive.angular",
       "scope": [
-        "text.html.angular variable.other.readwrite.js",
-        "text.html.angular meta.directive.angular support.type.object.module.html",
+        "text.angular.html variable.other.readwrite.js",
+        "text.angular.html meta.directive.angular support.type.object.module.html",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open meta.tag.attribute-name entity.other.attribute-name"
       ],
       "settings": {
@@ -1034,10 +1034,10 @@
     {
       "name": "variable other object in angular template",
       "scope": [
-        "text.html.angular variable.other.object.ts",
-        "text.html.angular variable.other.object.js",
+        "text.angular.html variable.other.object.ts",
+        "text.angular.html variable.other.object.js",
         "source.ts meta.decorator.ts meta.objectliteral.ts meta.object.member meta.template tag.open meta.brace.curly variable.other.readwrite.ts",
-        "text.html.angular variable.other.readwrite.ts"
+        "text.angular.html variable.other.readwrite.ts"
       ],
       "settings": {
         "foreground": "#9876aa"
@@ -1059,8 +1059,8 @@
     {
       "name": "angular template string interpolation",
       "scope": [
-        "text.html.angular expression.angular-interpolation string.regexp.angular-interpolation.begin",
-        "text.html.angular expression.angular-interpolation string.regexp.angular-interpolation.end"
+        "text.angular.html expression.angular-interpolation string.regexp.angular-interpolation.begin",
+        "text.angular.html expression.angular-interpolation string.regexp.angular-interpolation.end"
       ],
       "settings": {
         "foreground": "#cc7832"
@@ -1068,7 +1068,7 @@
     },
     {
       "name": "angular template operator",
-      "scope": ["text.html.angular keyword.operator.expression"],
+      "scope": ["text.angular.html keyword.operator.expression"],
       "settings": {
         "foreground": "#cc7832",
         "fontStyle": "bold"
@@ -1076,7 +1076,7 @@
     },
     {
       "name": "html text",
-      "scope": ["text.html.angular"],
+      "scope": ["text.angular.html"],
       "settings": {
         "foreground": "#a9b7c6"
       }
@@ -1084,18 +1084,17 @@
     {
       "name": "angular directive",
       "scope": [
-        "text.html.angular meta.directive.angular constant.numeric.angular-directive",
-        "text.html.angular string.regexp",
-        "text.html.angular meta.directive.angular constant.character.entity.html",
-        "text.html.angular meta.directive.angular keyword.operator.entity.html"
+        "text.angular.html template.ng.tag meta.directive.angular constant.numeric.angular-directive",
+        "text.angular.html template.ng.tag meta.directive.angular string.regexp",
+        "text.angular.html template.ng.tag meta.directive.angular keyword.operator.entity.html"
       ],
       "settings": {
-        "foreground": "#BBB529"
+        "foreground": "#AE8ABE"
       }
     },
     {
       "name": "directive string regexp",
-      "scope": ["text.html.angular string.regexp"],
+      "scope": ["text.angular.html string.regexp"],
       "settings": {
         "foreground": "#dfd940"
       }
@@ -1103,7 +1102,7 @@
     {
       "name": "html text",
       "scope": [
-        "text.html.angular meta.directive.angular source.directive.angular constant.numeric.decimal.js"
+        "text.angular.html meta.directive.angular source.directive.angular constant.numeric.decimal.js"
       ],
       "settings": {
         "foreground": "#6987bb"
